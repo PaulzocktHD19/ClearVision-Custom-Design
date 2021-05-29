@@ -16,6 +16,15 @@
 
 <div align="center">
 
+## Sting Images
+
+![v1.1.2b Themes](https://raw.githubusercontent.com/PaulzocktHD19/ClearVision-Custom-Design/master/screenshots/Sting-v1.1.1b.jpg)
+
+</div>
+
+
+<div align="center">
+
 ## Original Themes
 
 [![Original][Original-badge]][Original-link]
