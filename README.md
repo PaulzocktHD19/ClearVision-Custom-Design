@@ -1,5 +1,5 @@
-[releses-badge]: https://img.shields.io/badge/Themes-1-orange
-[releses-link]: https://github.com/PaulzocktHD19/ClearVision-Custom-Design/releases
+[release-badge]: https://img.shields.io/badge/Themes-1-blue
+[release-link]: https://github.com/PaulzocktHD19/ClearVision-Custom-Design/releases
 [license-badge]: https://img.shields.io/github/license/PaulzocktHD19/ClearVision-Custom-Design
 [license-link]: https://github.com/PaulzocktHD19/ClearVision-Custom-Design/blob/master/LICENSE
 [Original-badge]: https://img.shields.io/badge/Original-ClearVison-green
