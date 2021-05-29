@@ -9,14 +9,14 @@
 
 # ClearVision-Custom-Design
 
-[![Releases][release-badge]][release-link]
-[![License][license-badge]][license-link]
+[![Releases][release-badge][release-link]
+[![License][license-badge][license-link]
 
 </div>
 
 <div align="center">
 
-##Original Themes
+## Original Themes
 
 [![Original][Original-badge][Original-link]
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-##About
+## About
 
 Here is a custom design made for ClearVision. This is a fun project from me
 
