@@ -1,0 +1,20 @@
+/* STATUS */
+%avatarMask {
+	rect {
+		&[fill='#3ba55c'] {
+			fill: var(--online-color);
+		}
+		&[fill='#faa61a'] {
+			fill: var(--idle-color);
+		}
+		&[fill='#ed4245'] {
+			fill: var(--dnd-color);
+		}
+		&[fill='#593695'] {
+			fill: var(--streaming-color);
+		}
+		&[fill='#747f8d'] {
+			fill: var(--offline-color);
+		}
+	}
+}
