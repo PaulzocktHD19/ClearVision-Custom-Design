@@ -9,8 +9,8 @@
 
 # ClearVision-Custom-Design
 
-[![Releases][release-badge][release-link]
-[![License][license-badge][license-link]
+[![Releases][release-badge]][release-link]
+[![License][license-badge]][license-link]
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## Original Themes
 
-[![Original][Original-badge][Original-link]
+[![Original][Original-badge]][Original-link]
 
 </div>
 
